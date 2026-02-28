@@ -2,15 +2,17 @@
 Repository ini bertujuan untuk menganalisis sentimen pengunjung terhadap Pantai Labuhan Jukung, Lampung, berdasarkan ulasan yang diambil dari Google Maps. Dengan pendekatan klasifikasi Rule-Based (lexicon-based (kamus kata)), ulasan diklasifikasikan menjadi sentimen Positif, Netral, atau Negatif untuk memahami aspek apa yang paling disukai atau dikeluhkan oleh wisatawan terhadap Pantai Labuhan Jukung, Lampung.
 
 
-
+<br>
+<br>
 <h1>Alur Kerja Repository</h1>
-1. Data Scraping: Pengambilan data ulasan secara real-time menggunakan teknik web scraping.
-2. Pre-processing: Pembersihan data teks meliputi: Case Folding, Filtering, Stopwords Removal.
-3. Penetapan Rule: Penyusunan kamus kata (lexicon) positif dan negatif.
-4. Klasifikasi Data: Pemberian label sentimen berdasarkan skor bobot kata yang muncul.
-5. Visualisasi: Untuk memudahkan proses pengambilan insight data.
+1. Data Scraping: Pengambilan data ulasan secara real-time menggunakan teknik web scraping.<br>
+2. Pre-processing: Pembersihan data teks meliputi: Case Folding, Filtering, Stopwords Removal.<br>
+3. Penetapan Rule: Penyusunan kamus kata (lexicon) positif dan negatif.<br>
+4. Klasifikasi Data: Pemberian label sentimen berdasarkan skor bobot kata yang muncul.<br>
+5. Visualisasi: Untuk memudahkan proses pengambilan insight data.<br>
 
-
+<br>
+<br>
 <h1>Hasil Visualisasi</h1>
 Berdasarkan hasil analisis sentimen yang telah dilakukan pada dataset Pantai Labuhan Jukung, Lampung. Berikut adalah gambaran kata-kata yang paling sering muncul dalam ulasan pengunjung yang direpresentasikan melalui WordCloud:
 <br>
