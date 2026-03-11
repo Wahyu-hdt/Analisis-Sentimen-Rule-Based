@@ -44,3 +44,22 @@ Berdasarkan hasil analisis sentimen yang telah dilakukan pada dataset Pantai Lab
   <img src="visualisasi/wc-netral.png" alt="Wordcloud Netral" width="700">
   <p><i>Gambar: Wordcloud NetralPantai Labuhan Jukung</i></p>
 </div>
+
+<br>
+<h1>Insight</h1>
+Sentimen Negatif Menunjukkan Perlu Dilakukan Pembenahan Pada Area Berikut:
+<br>
+Kebersihan: Kata "sampah" dan "kotor". Ini adalah keluhan nomor satu pengunjung Pantai Labuhan Jukung.
+<br>
+Fasilitas: Kata "fasilitas" dan "rusak" mengindikasikan adanya penurunan kualitas pada fasilitas yang diberikan kepada pengunjung.
+<br>
+Kekecewaan: Kata "sayang" menunjukkan ekspektasi pengunjung yang tidak terpenuhi karena faktor berbagai macam faktor, salah satunya Kebersihan.
+
+<br>
+Sentimen Positif Menunjukkan Faktor Yang Disukai Pengunjung Pantai Labuhan Jukung:
+<br>
+Keindahan Alam: Kata "indah", "sunset", "pemandang", dan "ombak" adalah nilai jual utama pantai ini.
+<br>
+Aktivitas Yang Bisa Dilakukan:  Kata "surfing" dan "labuh jukung", menunjukkan aktivitas surfing merupakan andalan dipantai ini.
+<br>
+Wisata Ramah Keluarga: Kata "keluarga", "ramah", dan "murah" mengungkapkan bahwa pantai ini adalah wisata yang ramah keluarga.
