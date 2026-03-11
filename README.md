@@ -54,7 +54,7 @@ Analisis sentimen terhadap ulasan pengunjung Pantai Labuhan Jukung memberikan be
 
 ---
 
-### 🔴 Fokus Pembenahan (Sentimen Negatif)
+### Fokus Pembenahan (Sentimen Negatif)
 Berdasarkan data, area-area berikut memerlukan perhatian segera dari pihak pengelola:
 
 * **Masalah Kebersihan:** Kata **"sampah"** dan **"kotor"** menjadi keluhan nomor satu. Hal ini menunjukkan bahwa isu kebersihan adalah penghambat utama kenyamanan pengunjung.
@@ -65,7 +65,7 @@ Berdasarkan data, area-area berikut memerlukan perhatian segera dari pihak penge
 
 ---
 
-### 🟢 Keunggulan Utama (Sentimen Positif)
+###  Keunggulan Utama (Sentimen Positif)
 Faktor-faktor inilah yang menjadi daya tarik utama dan alasan mengapa pengunjung merekomendasikan pantai ini:
 
 * **Pesona Alam:** Kata **"indah"**, **"sunset"**, **"pemandang"**, dan **"ombak"** mengukuhkan daya tarik visual Pantai Labuhan Jukung sebagai nilai jual utama.
@@ -73,3 +73,10 @@ Faktor-faktor inilah yang menjadi daya tarik utama dan alasan mengapa pengunjung
 * **Destinasi Keluarga:** Penggunaan kata **"keluarga"**, **"ramah"**, dan **"murah"** menunjukkan bahwa pantai ini dinilai sebagai tempat wisata yang aksesibel dan nyaman untuk segala usia.
 
 ---
+
+<br>
+
+###  Proyek Terkait
+Lihat juga pengolahan data ulasan Pantai Labuhan Jukung dengan pendekatan lainnya disini:
+* **Analisis Sentimen (Naive Bayes):** [Wahyu-hdt/Analisis-Sentimen-Naive-Bayes](https://github.com/Wahyu-hdt/Analisis-Sentimen-Naive-Bayes)
+  > Pendekatan menggunakan algoritma Multinomial Naive Bayes untuk klasifikasi otomatis berdasarkan data training.
