@@ -45,21 +45,31 @@ Berdasarkan hasil analisis sentimen yang telah dilakukan pada dataset Pantai Lab
   <p><i>Gambar: Wordcloud NetralPantai Labuhan Jukung</i></p>
 </div>
 
-<br>
-<h1>Insight</h1>
-Sentimen Negatif Menunjukkan Perlu Dilakukan Pembenahan Pada Area Berikut:
-<br>
-Kebersihan: Kata "sampah" dan "kotor". Ini adalah keluhan nomor satu pengunjung Pantai Labuhan Jukung.
-<br>
-Fasilitas: Kata "fasilitas" dan "rusak" mengindikasikan adanya penurunan kualitas pada fasilitas yang diberikan kepada pengunjung.
-<br>
-Kekecewaan: Kata "sayang" menunjukkan ekspektasi pengunjung yang tidak terpenuhi karena faktor berbagai macam faktor, salah satunya Kebersihan.
 
 <br>
-Sentimen Positif Menunjukkan Faktor Yang Disukai Pengunjung Pantai Labuhan Jukung:
 <br>
-Keindahan Alam: Kata "indah", "sunset", "pemandang", dan "ombak" adalah nilai jual utama pantai ini.
+<h1>Insight</h1>
+
+Analisis sentimen terhadap ulasan pengunjung Pantai Labuhan Jukung memberikan beberapa poin penting sebagai berikut:
+
+---
+
+### 🔴 Fokus Pembenahan (Sentimen Negatif)
+Berdasarkan data, area-area berikut memerlukan perhatian segera dari pihak pengelola:
+
+* **Masalah Kebersihan:** Kata **"sampah"** dan **"kotor"** menjadi keluhan nomor satu. Hal ini menunjukkan bahwa isu kebersihan adalah penghambat utama kenyamanan pengunjung.
+* **Kualitas Fasilitas:** Kemunculan kata **"fasilitas"** dan **"rusak"** mengindikasikan adanya penurunan kualitas sarana prasarana yang tersedia di area pantai.
+* **Faktor Kekecewaan:** Kata **"sayang"** sering muncul, menggambarkan ekspektasi pengunjung yang tinggi  namun tidak terpenuhi karena faktor eksternal seperti kebersihan dan fasilitas tadi.
+
 <br>
-Aktivitas Yang Bisa Dilakukan:  Kata "surfing" dan "labuh jukung", menunjukkan aktivitas surfing merupakan andalan dipantai ini.
-<br>
-Wisata Ramah Keluarga: Kata "keluarga", "ramah", dan "murah" mengungkapkan bahwa pantai ini adalah wisata yang ramah keluarga.
+
+---
+
+### 🟢 Keunggulan Utama (Sentimen Positif)
+Faktor-faktor inilah yang menjadi daya tarik utama dan alasan mengapa pengunjung merekomendasikan pantai ini:
+
+* **Pesona Alam:** Kata **"indah"**, **"sunset"**, **"pemandang"**, dan **"ombak"** mengukuhkan daya tarik visual Pantai Labuhan Jukung sebagai nilai jual utama.
+* **Pusat Aktivitas:** Kata **"surfing"** dan **"labuh jukung"** menegaskan bahwa pantai ini merupakan destinasi unggulan bagi pecinta olahraga selancar.
+* **Destinasi Keluarga:** Penggunaan kata **"keluarga"**, **"ramah"**, dan **"murah"** menunjukkan bahwa pantai ini dinilai sebagai tempat wisata yang aksesibel dan nyaman untuk segala usia.
+
+---
